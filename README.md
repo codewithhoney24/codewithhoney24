@@ -1,4 +1,5 @@
-<img align="right" alt="coding" width="400" src="https://www.canva.com/design/DAGDKdrlDiA/0r5omFvFc3a14ImyKa9tag/edit?utm_content=DAGDKdrlDiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+![logo]![WhatsApp Image 2024-04-23 at 02 00 44](https://github.com/codewithhoney24/codewithhoney24/assets/161060487/c4b05021-640d-4e4b-a9f5-a98fad1212c7)
+
 <h1 align="center">Hi 👋, I'm NOUSHEEN ATIF</h1>
 <h3 align="center">A passionate Generative AI and Web 3.0 Developer from PakistanIndia</h3>
 
