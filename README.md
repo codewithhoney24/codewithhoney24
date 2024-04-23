@@ -1,7 +1,9 @@
 ![logo]![WhatsApp Image 2024-04-23 at 02 00 44](https://github.com/codewithhoney24/codewithhoney24/assets/161060487/c4b05021-640d-4e4b-a9f5-a98fad1212c7)
-
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=HELLO+THERE 👋;THIS+IS+NOUSHEEN+ATIF...;&center=true&size=25">
+</a>
 <h1 align="center">Hi 👋, I'm NOUSHEEN ATIF</h1>
-<h3 align="center">A passionate Generative AI and Web 3.0 Developer from PakistanIndia</h3>
+<h3 align="center">A passionate Generative AI and Web 3.0 Developer from Pakistan.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithhoney24&label=Profile%20views&color=0e75b6&style=flat" alt="codewithhoney24" /> </p>
