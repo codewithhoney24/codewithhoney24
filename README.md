@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithhoney24&" alt="codewithhoney24" /></p>
 
-### Hi there 👋
+### Hi coder 👋
 
 <!--
 **codewithhoney24/codewithhoney24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
