@@ -6,11 +6,6 @@
 </h1>
 <h1 align="center">Hi 👋, I'm NOUSHEEN ATIF</h1>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There 👋;This+is+Nousheen+Atif...;&center=true&size=25">
-</a>
-
-
 <h3 align="center">A passionate Generative AI and Web 3.0 Developer from Pakistan.</h3>
 
 
