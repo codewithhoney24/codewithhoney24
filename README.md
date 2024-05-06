@@ -1,7 +1,8 @@
 ![logo]![WhatsApp Image 2024-04-23 at 02 00 44](https://github.com/codewithhoney24/codewithhoney24/assets/161060487/c4b05021-640d-4e4b-a9f5-a98fad1212c7)
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There👋🏻;This+is+Nousheen+Atif..;&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There👋🏻;This+is+Nousheen+Atif..;&center=true&size=27">
   </a>
 </h1>
 <h1 align="center">Hi 👋, I'm NOUSHEEN ATIF</h1>
