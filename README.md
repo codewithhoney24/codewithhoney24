@@ -1,4 +1,4 @@
-![githubpicture](https://github.com/user-attachments/assets/e781e834-ccb9-43ee-924c-9ed7bb81c871)
+<h2 align="center"![githubpicture](https://github.com/user-attachments/assets/e781e834-ccb9-43ee-924c-9ed7bb81c871)></h2>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There👋🏻;This+is+Nousheen+Atif..;&center=true&size=27">
