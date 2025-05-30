@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Agentic AI Enthusiast | Learning Dapr, DACA Agent, OpenAI SDK, Kubernetes.**
 
-- 💬 Ask me about **Html,Css, tailwind css, Typescript, Next.js, Python.**
+- 💬 Ask me about **Html,Css, Tailwind css, Typescript, Next.js, Python.**
 
 - 📫 How to reach me **onlinework42101@gmail.com**
 
