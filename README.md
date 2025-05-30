@@ -7,16 +7,16 @@
 </h1>
 <h1 align="center">Hi 👋, I'm NOUSHEEN ATIF</h1>
 
-<h3 align="center">A passionate Generative AI and Web 3.0 Developer from Pakistan.</h3>
+<h3 align="center">A passionate AI Agentic and Web Developer from Pakistan.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithhoney24&label=Profile%20views&color=0e75b6&style=flat" alt="codewithhoney24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI and Web 3.0 developer**
+- 🌱 I’m currently learning **Agentic AI Enthusiast | Learning Dapr, DACA Agent, OpenAI SDK, Kubernetes.**
 
-- 💬 Ask me about **html,css.javascript and typescript.**
+- 💬 Ask me about **Html,Css, tailwind css, Typescript, Next.js, Python.**
 
 - 📫 How to reach me **onlinework42101@gmail.com**
 
